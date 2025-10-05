@@ -6,10 +6,10 @@
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
+BMI= W/H
+<br> BMI --> W/H
+<br> W --> Weight
+<br> H --> Height
 
 ## DESIGN STEPS:
 
@@ -131,10 +131,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (37)-1.png>)
+![alt text](<Screenshot (37)-2.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot (36)-1.png>)
+![alt text](<Screenshot (36)-2.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
