@@ -37,9 +37,10 @@ math.html
 <html>
 <head>
 <title>Body Mass Index</title>
-<h1 style="color:pink;">ABILASHA R (25015770)</h1>
 <style type="text/css">
+</head>
 body
+<h1 style="color:pink;">ABILASHA R (25015770)</h1>
 {
   background-color:grey;
 }
